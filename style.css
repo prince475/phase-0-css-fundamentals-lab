@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+text-align: center;
+color: coral;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav, a:link {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: grey;
+}
+figcaption{
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
+  color: brown;
+}
+#featured-property, p {
+  text-align: center;
+  color: coral;
+  }
+#details > div{
+ float: left;
+ text-align: center;
+ background-color: red;
+ width: 25%;
+ 
+}
